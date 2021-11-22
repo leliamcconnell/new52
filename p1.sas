@@ -1,0 +1,1 @@
+proc contents data=sashelp.class;run;
