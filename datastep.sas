@@ -1,5 +1,5 @@
 data one;
- do x = 1 to 5;
+ do x = 1 to 15;
 output;
 end;
 run;
