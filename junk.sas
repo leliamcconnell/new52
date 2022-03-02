@@ -1,0 +1,1 @@
+%put _automatic_;
