@@ -1,1 +1,1 @@
-proc setinit;run;
+proc setinit;run;%put _all_;run;
